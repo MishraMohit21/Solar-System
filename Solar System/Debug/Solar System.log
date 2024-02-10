@@ -1,0 +1,6 @@
+﻿  Planet.cpp
+C:\dev\Game Dev\SFML_Framework\Solar System\Solar System\Planet.cpp(20,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\dev\Game Dev\SFML_Framework\Solar System\Solar System\Planet.cpp(44,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\Game Dev\SFML_Framework\Solar System\Solar System\Planet.cpp(45,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\dev\Game Dev\SFML_Framework\Solar System\Solar System\Planet.cpp(46,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Solar System.vcxproj -> C:\dev\Game Dev\SFML_Framework\Solar System\Debug\Solar System.exe
